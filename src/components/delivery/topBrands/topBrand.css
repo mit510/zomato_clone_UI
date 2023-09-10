@@ -1,0 +1,23 @@
+.top-brands{
+    padding-top: 30px;
+}
+
+.top-brand-cover{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color:var(--primary-bg) ;
+    /* box-shadow: var(--collection-shadow); */
+    /* border: .5px solid var(--collection-shadow); */
+}
+.top-brands-image{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    box-shadow: var(--collection-shadow);
+}
+.time{
+    margin-top: 10px;
+    color: rgb(28, 28, 28);
+}

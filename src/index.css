@@ -1,10 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Monda&family=Rubik&display=swap');
+@import '../src/styles/commonClasses.css';
+@import '../src/styles/variable.css';
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Monda', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  box-sizing: border-box;
 }
 
 code {
